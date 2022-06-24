@@ -1,0 +1,21 @@
+{
+  "name": "css-color-name",
+  "version": "1.0.0",
+  "description": "List of extended CSS color names with its hex and decimal values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fuadinadhif/css-color-name"
+  },
+  "keywords": [
+    "color-name",
+    "color",
+    "colors",
+    "css-color"
+  ],
+  "author": "Nadhif Fuadi <nadhiffuadi@gmail.com>",
+  "license": "MIT"
+}
