@@ -4,7 +4,9 @@ List of extended CSS color names with its hex and decimal values. Derived from [
 
 ## Usage
 
-`npm install css-color-name`
+```js
+npm install css-color-name
+```
 
 ```js
 const colors = require("css-color-name");
